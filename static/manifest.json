@@ -1,0 +1,11 @@
+{
+  "manifest_version":3,
+  "name":"notebook",
+  "version":"1.0.0",
+  "description":"a simple notebook to keep yout text data organized",
+  "action":{
+    "default_title":"notebook",
+    "default_popup":"index.html"
+  },
+  "permissions":["storage"]
+}
